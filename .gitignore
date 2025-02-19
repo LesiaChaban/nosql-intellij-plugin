@@ -28,7 +28,6 @@ oracle.nosql/model-common/.gradle/
 # Ignore build artifacts
 /target/
 *.class
-*.jar
 *.war
 *.ear
 *.prefs
